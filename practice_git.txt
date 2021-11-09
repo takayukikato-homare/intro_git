@@ -1,2 +1,4 @@
 practice_git
 I leaning basic workflow of git
+・git add
+・git commit
