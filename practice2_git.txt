@@ -1,1 +1,2 @@
-’Ç‰Á‚·‚éƒtƒ@ƒCƒ‹
+second file
+This file is practice for git
